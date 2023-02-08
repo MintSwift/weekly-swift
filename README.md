@@ -17,7 +17,7 @@
 
 
 ## 스크린샷
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Header.png" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Header.jpg" width="100%" height="auto">
 
 ## 기능
 - 주간스위프트
