@@ -13,7 +13,7 @@
 
 
 ## 다운로드
-[![AppStore](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/dn_store.svg)](https://apps.apple.com/app/id1532835617) 
+[![AppStore](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/dn_store.svg)](https://apps.apple.com/app/id1661868347) 
 
 
 ## 스크린샷
