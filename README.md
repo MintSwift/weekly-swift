@@ -37,6 +37,8 @@
     - 광고 ( 생계형 광고 )
        - 광고 제거를 하지 않아도 모든 서비스 이용 가능
 
+## Medium 로그인 방법
+ - 민트주간 App에서 Medium 로그인을 시도하면, Medium App으로 넘어가는 문제로 인하여 Medium App 삭제 후 민트주간 App에서 로그인이 가능합니다.
 
 ## 아이콘
 <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/icon.jpg" width="80px" height="auto" style="border-radius:5px">
