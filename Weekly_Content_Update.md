@@ -1,4 +1,4 @@
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Banner.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Update_Banner.jpg" width="100%" height="auto">
 
 ## App Update Note
 
