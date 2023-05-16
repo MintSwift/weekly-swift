@@ -1,6 +1,4 @@
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg" width="100%" height="auto">
-
-
+<!-- <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg" width="100%" height="auto"> -->
 [![Main_Banner](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg)](https://apps.apple.com/app/id1661868347?action=write-review)
 
 ## App Update Note
