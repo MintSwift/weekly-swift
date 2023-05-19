@@ -1,8 +1,8 @@
 # 주간스위프트
+
 <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Banner_2.0.jpg" width="100%" height="auto">
 
-
-###   
+### 
 
 ## 개발사항
 
@@ -11,40 +11,66 @@
 ![Platforms](https://img.shields.io/badge/Platforms-iOS_16+-yellowgreen?style=flat-square) 
 ![Dependency](https://img.shields.io/badge/Dependency-Swift_Package_Manager-orange?style=flat-square)
 
-
 ## 다운로드
+
 [![AppStore](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/dn_store.svg)](https://apps.apple.com/app/id1661868347) 
 
-
 ## 스크린샷
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Header.jpg" width="100%" height="auto">
+
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/iPhone_Shot.jpg" width="100%" height="auto">
+
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/iPad_Cut.jpg" width="100%" height="auto">
 
 ## 기능
-- 주간스위프트
-    - iOS & Swift 관련 뉴스, 블로그 등 다양한 자료 제공
-    - 2 ~ 10일 사이 간격 다양한 자료 업데이트
-    - 개발자들에게 읽을 거리 및 튜토리얼을 제공
 
-- 추천블로그
-    - 추천 사이트 / 블로그 / 미디엄 웹페이지 수집하여 제공
+- 주간스위프트
+  
+  - 이 세상 iOS 개발, 스위프트 관련한 뉴스를 담았습니다. iOS & Swift 관련 뉴스, 블로그 등 다양한 자료 제공
+  - 1 ~ 3일 사이 간격 다양한 자료 업데이트
+
+- iOS 개발 지침
+  
+  - Human Interface Guidelines
+  - Review Guidelines
+  - Identity Guidelines
+  - Promo Artwork Guidelines
+  - Wallet Guidelines
+  - Marketing Guidelines
+  - Swift 문법, H.I.G, WWDC, 튜토리얼, 컨퍼런스 영상
+
+- 세계 컨퍼런스 일정 
+  
+  - 타임라인으로 보는 전세계 컨퍼런스 일정
 
 - 위젯
-    - 다양한 사이즈로 최신의 자료 제공
+  
+  - 최신 또는 랜덤 게시물을 볼수 있는 위젯
 
 - 설정
-    - 문의하기 / 추천 웹페이지 소개하기 
-    - 다크모드
-    - 광고 ( 생계형 광고 )
-       - 광고 제거를 하지 않아도 모든 서비스 이용 가능
+  
+  - 문의하기 / 추천 웹페이지 소개하기
+  - 다크모드
+  - 광고 ( 생계형 광고 )
+  - 광고 제거를 하지 않아도 모든 서비스 이용 가능
+
+Terms of use (EULA)
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Privacy Policy
+https://github.com/MintSwift/weekly-swift/blob/main/Privacy-Policy.md
 
 ## Medium 로그인 방법
- - 민트주간 App에서 Medium 로그인을 시도하면, Medium App으로 넘어가는 문제로 인하여 Medium App 삭제 후 민트주간 App에서 로그인이 가능합니다.
+
+- 민트주간 App에서 Medium 로그인을 시도하면, Medium App으로 넘어가는 문제로 인하여 Medium App 삭제 후 민트주간 App에서 로그인이 가능합니다.
 
 ## 아이콘
+
 <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/icon.jpg" width="80px" height="auto" style="border-radius:5px">
 
 ## 개인정보 처리 방침
+
 [[개인정보 처리 방침]](https://github.com/MintSwift/weekly-swift/blob/main/Privacy-Policy.md) 
 
 ## 오픈소스 라이센스
+
 [[오픈소스 라이센스]](https://github.com/MintSwift/weekly-swift/blob/main/OpenSourceLicense.md) 
