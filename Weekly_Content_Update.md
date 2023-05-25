@@ -25,7 +25,7 @@
 - 컨퍼런스 영상 추가
   - adiOS Korea( Blossom / intro / ASAP / Something )
   - Async Swift Korea(SyncSwift 2022)
-- Clone Codeing 섹션 추가
+- Clone Coding 섹션 추가
   - Spotify (2022)
   - Instagram (2021)
 ```
