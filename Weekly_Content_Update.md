@@ -1,7 +1,12 @@
 <!-- <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg" width="100%" height="auto"> -->
+
 [![Main_Banner](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg)](https://apps.apple.com/app/id1661868347?action=write-review)
 
 ## App Update Note
+
+### 1.2.1 예정
+ - 주간스위프트 탭 버튼 누르면 Scroll To Top 기능 추가.
+
 
 ### 1.2.0
 
@@ -12,6 +17,18 @@
   - 세계 각국 컨퍼런스 일정 추가.
 
 ## Content Update Note
+
+### 5월 25일
+
+```
+- SwiftUI To Do List 튜토리얼 추가.
+- 컨퍼런스 영상 추가
+  - adiOS Korea( Blossom / intro / ASAP / Something )
+  - Async Swift Korea(SyncSwift 2022)
+- Clone Codeing 섹션 추가
+  - Spotify (2022)
+  - Instagram (2021)
+```
 
 ### 5월 20일
 
