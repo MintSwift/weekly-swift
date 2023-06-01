@@ -2,11 +2,15 @@
 
 [![Main_Banner](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg)](https://apps.apple.com/app/id1661868347?action=write-review)
 
+## Homework
+
+- MacOS용 제작
+
 ## App Update Note
 
-### 1.2.1 예정
- - 주간스위프트 탭 버튼 누르면 Scroll To Top 기능 추가.
+### 1.2.1
 
+- 주간스위프트 탭 버튼 누르면 Scroll To Top 기능 추가.
 
 ### 1.2.0
 
