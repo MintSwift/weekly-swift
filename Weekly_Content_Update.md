@@ -22,6 +22,13 @@
 
 ## Content Update Note
 
+### 6월 2일
+
+```
+- Korea Security ( Wladimir Palant )
+- TCA Youtube Tutorial 
+```
+
 ### 5월 25일
 
 ```
