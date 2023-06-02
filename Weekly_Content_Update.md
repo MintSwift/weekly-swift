@@ -2,7 +2,7 @@
 
 [![Main_Banner](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg)](https://apps.apple.com/app/id1661868347?action=write-review)
 
-## Homework
+## Homework
 
 - MacOS용 제작
 
