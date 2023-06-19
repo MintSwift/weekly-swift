@@ -13,6 +13,10 @@
 - 딥링크 개선
 - 컨퍼런스일정 Widget 추가
 
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Screen_Shot_Widget.jpg" width="50%" height="auto">
+
+
+
 ### 1.2.1
 
 - 주간스위프트 탭 버튼 누르면 Scroll To Top 기능 추가.
