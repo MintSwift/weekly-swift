@@ -13,7 +13,7 @@
 - 딥링크 개선
 - 컨퍼런스일정 Widget 추가
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Screen_Shot_Widget.jpg" width="50%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Screen_Shot_Widget.png" width="50%" height="auto">
 
 
 
