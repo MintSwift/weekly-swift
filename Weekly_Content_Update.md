@@ -8,14 +8,18 @@
 
 ## App Update Note
 
-### 1.3.0 (예고)
+### 1.4.0 (예정)
+
+- 컨퍼런스일정 디자인 변경 및 Detail 화면 추가.
+
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Conference_Design.jpg" width="30%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Conference_Detail_Design.jpg" width="30%" height="auto">
+
+### 1.3.0
 
 - 딥링크 개선
 - 컨퍼런스일정 Widget 추가
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Screen_Shot_Widget.png" width="50%" height="auto">
-
-
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Conference_Widget.jpg" width="50%" height="auto">
 
 ### 1.2.1
 
@@ -30,6 +34,17 @@
   - 세계 각국 컨퍼런스 일정 추가.
 
 ## Content Update Note
+
+### 6월 30일
+
+```
+- NYSwifty 2023
+  2023.4월에 진행한 NYSwifty 2023 컨퍼런스 영상 추가
+
+- 컨퍼런스 일정 추가
+  DO iOS 2023 (11.08)
+  WWDC 2024(2024.06.04 예상)
+```
 
 ### 6월 19일
 
