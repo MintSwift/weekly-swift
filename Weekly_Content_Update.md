@@ -10,7 +10,8 @@
 
 ### 1.5.0 ( 예정 )
 <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Welcome_Image.jpg" width="50%" height="auto">
- 
+
+
 <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Notification_Ex.png" width="20%" height="auto">
 
 ### 1.4.0
@@ -26,7 +27,8 @@
   ### 1.3.0
   - 딥링크 개선
   - 컨퍼런스일정 Widget 추가
-   <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Conference_Widget.jpg" width="20%" height="auto">
+
+  <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Conference_Widget.jpg" width="40%" height="auto">
 
   ### 1.2.1
     - 주간스위프트 탭 버튼 누르면 Scroll To Top 기능 추가.
