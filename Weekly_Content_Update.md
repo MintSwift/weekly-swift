@@ -10,7 +10,7 @@
 
 ### 1.5.0 ( 예정 )
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Notification_Ex.png" width="13%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Welcome_Image.jpg" width="50%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Notification_Ex.png" width="20%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Welcome_Image.jpg" width="76.5%" height="auto">
 
 
 ### 1.4.0
