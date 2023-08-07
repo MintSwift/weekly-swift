@@ -8,7 +8,12 @@
 
 ## 최신 / 예정된 업데이트 내용
 
-### 1.5.0 ( 예정 )
+### 2.0.0 ( 늦은 겨울 )
+ - All New Design
+#####
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Mint_2_0_Weekly.png" width="30%" height="auto">
+
+### 1.5.0 ( 08.10일 이후 )
 
 <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Notification_Ex.png" width="20%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Push_Welcome_Image.jpg" width="76.5%" height="auto">
 
