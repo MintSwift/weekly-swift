@@ -2,16 +2,19 @@
 
 [![Main_Banner](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg)](https://apps.apple.com/app/id1661868347?action=write-review)
 
-## 2023 목표
+## 2024 목표
 
-- MacOS용 제작 ( 난관 )
+- MacOS용 제작
 
 ## 최신 / 예정된 업데이트 내용
 
-### 2.0.0 ( 늦은 겨울 )
+### 2.0.0 ( Coming soon )
  - All New Design
 #####
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Mint_2_0_Weekly.png" width="30%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Weekly.png" width="35%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Video.png" width="35%" height="auto">
+
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Plan.png" width="35%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Menu.png" width="35%" height="auto">
+
 
 ### 1.5.0 ( 08.10일 이후 )
 
