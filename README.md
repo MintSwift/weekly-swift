@@ -1,6 +1,6 @@
 # 주간스위프트
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/WeeklySwift_Banner_3.0.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/WeeklySwift_Banner_3.0.jpeg" width="100%" height="auto">
 
 ### 
 
