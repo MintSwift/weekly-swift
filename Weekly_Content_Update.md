@@ -8,12 +8,12 @@
 
 ## 최신 / 예정된 업데이트 내용
 
-### 2.0.0 ( Coming soon )
+### 2.0.0 ( 12.19 )
  - All New Design
 #####
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Weekly.png" width="35%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Video.png" width="35%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_1.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_3.jpg" width="33%" height="auto">
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Plan.png" width="35%" height="auto"> <img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/Ver_2_Menu.png" width="35%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_5.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_6.jpg" width="33%" height="auto">
 
 
 ### 1.5.0 ( 08.10일 이후 )

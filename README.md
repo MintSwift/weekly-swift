@@ -1,14 +1,14 @@
 # 주간스위프트
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Banner_2.0.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/WeeklySwift_Banner_3.0.jpeg" width="100%" height="auto">
 
 ### 
 
 ## 개발사항
 
-![IDE](https://img.shields.io/badge/XCode-14.2-skyblue?style=flat-square)
-![Swift](https://img.shields.io/badge/Swift-5.7-orange?style=flat-square)
-![Platforms](https://img.shields.io/badge/Platforms-iOS_16+-yellowgreen?style=flat-square) 
+![IDE](https://img.shields.io/badge/XCode-15.1-skyblue?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=flat-square)
+![Platforms](https://img.shields.io/badge/Platforms-iOS_17+-yellowgreen?style=flat-square) 
 ![Dependency](https://img.shields.io/badge/Dependency-Swift_Package_Manager-orange?style=flat-square)
 
 ## 다운로드
@@ -17,9 +17,13 @@
 
 ## 스크린샷
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/iPhone_Shot.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_1.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_2.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_3.jpg" width="33%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_4.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_5.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_6.jpg" width="33%" height="auto">
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/iPad_Cut.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iPad_Weekly_1.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iPad_Weekly_2.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iPad_Weekly_3.jpg" width="100%" height="auto">
+
 
 ## 기능
 
@@ -28,23 +32,14 @@
   - 이 세상 iOS 개발, 스위프트 관련한 뉴스를 담았습니다. iOS & Swift 관련 뉴스, 블로그 등 다양한 자료 제공
   - 1 ~ 3일 사이 간격 다양한 자료 업데이트
 
-- iOS 개발 지침
-  
-  - Human Interface Guidelines
-  - Review Guidelines
-  - Identity Guidelines
-  - Promo Artwork Guidelines
-  - Wallet Guidelines
-  - Marketing Guidelines
-  - Swift 문법, H.I.G, WWDC, 튜토리얼, 컨퍼런스 영상
-
 - 세계 컨퍼런스 일정 
   
   - 타임라인으로 보는 전세계 컨퍼런스 일정
 
 - 위젯
-  
+
   - 최신 또는 랜덤 게시물을 볼수 있는 위젯
+  - Apple 개발자 서비스의 시스템 상태 위젯
 
 - 설정
   
