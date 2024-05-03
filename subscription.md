@@ -32,12 +32,12 @@
 #### 무료사용자
 > 카테고리 `무료` 항목에 대해서 전체 읽기 가능
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/Free_WeeklyMint.png" width="30%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/Non_WeeklyMint.png" width="30%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/Free_WeeklyMint.png" width="50%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/Non_WeeklyMint.png" width="50%" height="auto">
 
 #### 구독(후원)
 > 모든 항목 전체 읽기 가능
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/WeeklyMint_1.png" width="30%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/WeeklyMint_2.png" width="30%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/WeeklyMint_3.png" width="30%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/WeeklyMint_1.png" width="32%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/WeeklyMint_2.png" width="32%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/PromotionImage/WeeklyMint_3.png" width="32%" height="auto">
 
 
 
