@@ -17,12 +17,14 @@
 
 ## 스크린샷
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_1.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_2.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_3.jpg" width="33%" height="auto">
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_4.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_5.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iOS_Weekly_6.jpg" width="33%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_3.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_6.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_1.jpg" width="33%" height="auto">
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iPad_Weekly_1.jpg" width="100%" height="auto">
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iPad_Weekly_2.jpg" width="100%" height="auto">
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/2nd_iPad_Weekly_3.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_1.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_7.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Setting_1.jpg" width="33%" height="auto">
+
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/iPad_Weekly_1.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/iPad_Weekly_2.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/iPad_Weekly_3.jpg" width="100%" height="auto">
+
 
 
 ## 기능
