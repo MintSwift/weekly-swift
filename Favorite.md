@@ -4,10 +4,13 @@
 
 ## 스크린샷
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Main.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Sub.jpg" width="33%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Main.png" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Sub.png" width="33%" height="auto">
 
+## 기능
+- 보관하고 싶은 아티클을 보관 저장 합니다.
+- 
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Non.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Click.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Like.jpg" width="33%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Non.png" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Click.png" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite-Like.png" width="33%" height="auto">
 
 
 
