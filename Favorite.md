@@ -1,6 +1,6 @@
 # 즐겨찾기
 
-[![Upgrade](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/dn_store.svg)](mintweeklyswift://subscription) 
+[![Upgrade](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Upgrade.png)](mintweeklyswift://subscription) 
 
 ## 스크린샷
 
