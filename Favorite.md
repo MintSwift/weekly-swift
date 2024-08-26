@@ -1,6 +1,6 @@
 # 즐겨찾기
 
-[![Upgrade](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/dn_store.svg)](https://apps.apple.com/app/id1661868347) 
+[![Upgrade](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/dn_store.svg)](mintweeklyswift://subscription) 
 
 ## 스크린샷
 
