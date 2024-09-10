@@ -14,4 +14,4 @@
 <img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite_NonStar.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite_Menu.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/Favorite/Favorite_Star.jpg" width="33%" height="auto">
 
 ## 기능
-- 툴바에 있는 Star 아이콘을 눌러 새폴더 생성, 저장, 해제가 가능합니다.
+- 툴바에 있는 `별` 아이콘을 눌러 새폴더 생성, 저장, 해제가 가능합니다.
