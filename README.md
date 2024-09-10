@@ -6,7 +6,7 @@
 
 ## 개발사항
 
-![IDE](https://img.shields.io/badge/XCode-15.1-skyblue?style=flat-square)
+![IDE](https://img.shields.io/badge/XCode-15.4-skyblue?style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=flat-square)
 ![Platforms](https://img.shields.io/badge/Platforms-iOS_17+-yellowgreen?style=flat-square) 
 ![Dependency](https://img.shields.io/badge/Dependency-Swift_Package_Manager-orange?style=flat-square)
@@ -17,15 +17,15 @@
 
 ## 스크린샷
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_3.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_6.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_1.jpg" width="33%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/news.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Bookmark.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/ConferencePlan.jpg" width="33%" height="auto">
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_1.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Weekly_7.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/Setting_1.jpg" width="33%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/news_widget.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Bookmark_widget.jpg" width="33%" height="auto"><img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/setting.jpg" width="33%" height="auto">
 
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/iPad_Weekly_1.jpg" width="100%" height="auto">
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/iPad_Weekly_2.jpg" width="100%" height="auto">
-<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202405_Update/iPad_Weekly_3.jpg" width="100%" height="auto">
-
-
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Pad1.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Pad3.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Pad2.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Pad4.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/Weekly3/Pad5.jpg" width="100%" height="auto">
 
 ## 기능
 
